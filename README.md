@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soren-source&label=Profile%20views&color=0e75b6&style=flat" alt="soren-source" /> </p>
 
-- 🔭 I’m currently working on [GVMP_Reloaded](https://github.com/soren-source/GVMP_Reloaded)
-
 - 🌱 I’m currently learning **C#, JS, Python3, CSS, HTML, Object Oriented Java**
 
 - 👯 I’m looking to collaborate on **C# Projects**
